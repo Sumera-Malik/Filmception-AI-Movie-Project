@@ -1,0 +1,26 @@
+# Transformers and Model
+transformers==4.41.2
+torch==2.3.0
+datasets==2.19.1
+
+# NLP and Preprocessing
+nltk==3.8.1
+scikit-learn==1.4.2
+pandas==2.2.2
+numpy==1.26.4
+
+# Translation and Audio
+gtts==2.5.1
+deep-translator==1.11.4
+
+# Visualization
+matplotlib==3.9.0
+
+# GUI
+# Tkinter comes built-in with Python (no pip install needed)
+
+# Optional: To avoid tokenizer parallelism warning
+tokenizers==0.19.1
+
+# For safe file handling and I/O
+joblib==1.4.2
